@@ -6,7 +6,7 @@
 
     <groupId>com.qualizeal.community</groupId>
     <artifactId>web-tester</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>web-tester</name>
     <description>A useful WebDriver wrapper for web and mobile web</description>
